@@ -1,0 +1,5 @@
+F:\Folder kuliah\SEMESTER 3 ONLINE\Pemograman Lajut\Modul\4.  FreshFruit\FreeshFruit\obj\Debug\netcoreapp3.1\FreeshFruit.csprojAssemblyReference.cache
+F:\Folder kuliah\SEMESTER 3 ONLINE\Pemograman Lajut\Modul\4.  FreshFruit\FreeshFruit\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Folder kuliah\SEMESTER 3 ONLINE\Pemograman Lajut\Modul\4.  FreshFruit\FreeshFruit\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Folder kuliah\SEMESTER 3 ONLINE\Pemograman Lajut\Modul\4.  FreshFruit\FreeshFruit\obj\Debug\netcoreapp3.1\FreeshFruit_MarkupCompile.cache
+F:\Folder kuliah\SEMESTER 3 ONLINE\Pemograman Lajut\Modul\4.  FreshFruit\FreeshFruit\obj\Debug\netcoreapp3.1\FreeshFruit_MarkupCompile.lref
